@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Dongzi1Application {
 
 	public static void main(String[] args) {
-		System.out.print("CCDDDEE");
+		System.out.print("CCDDDEEFF");
 		SpringApplication.run(Dongzi1Application.class, args);
 	}
 }
